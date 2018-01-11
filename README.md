@@ -3,6 +3,10 @@
 A web visualization tool for overviewing the iterative training of machine learning models in keras! Edit
 Add topics
 
+## Example Screenshot
+
+![keras visualization tool](./image.png)
+
 ## Installation
 
 For now clone the repository,
