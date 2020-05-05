@@ -12,8 +12,6 @@ Add topics
 For now clone the repository,
 `git clone https://github.com/DylanModesitt/keras-visualization.git`
 
-I will add it to pip soon.
-
 ## Usage
 
 Simply use the `RemoteMonitor` keras callback from the package and configure it with the root url and other optional params.
